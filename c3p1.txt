@@ -1,0 +1,23 @@
+conversation-id	content
+b6bd6833dde04447a9f97bf764370961	Menu
+a41f71ac88fc478eb6f8d5cc79b39fc0	ManageDataIVR
+6b3fdb9206124d988357edf038bf779d	1
+d33e86df4ee945719ed7731dd2bd9944	Sim swap
+9974b5928abb4613b31bf28a5bcc24eb	1
+d1cfa0865212477fb8580ed44f2c055e	1
+7b59b5a03c924dc896ab57464277405f	ManageDataIVR
+f36db2f1fb454aa5822ed03ecaa2de42	Menu
+27d984e3dea34a04887b5cf03c520501	Menu
+0ccf293588ae406bb911851b59231a2d	You too
+07ee716a113f4a9db9929bf5b1b1db14	ManageDataIVR
+6e6976ef578c43cca4c81942d167994a	NDLIVR
+64fabb0baeed412cbb470f0cb7bc9544	I have a problem about my data since last month when I buy data immediately is gone within a minute what is going on
+dc3dce0b6cbc4bce9f33ebc8bc0ee495	YES
+f9673616332f4074b95a6f47024c0e56	Menu
+d33e86df4ee945719ed7731dd2bd9944	Ok
+522a1120af354b949ed67bca09603b27	PLZ BRING BACK MY AIRTIME TOBI
+3442eefeb79749bf9f897257db64910b	5
+e37f68a75eed4e5bb892597b33dc3721	NO
+175cccf37ce04705b5b0aebc5234c929	Menu
+4fa03ba3962c4047be301e13393ac2af	Menu
+3acc01e7de7d4e5f9148bdae0d920a21	4
